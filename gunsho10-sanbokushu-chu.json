@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sanbokushu-chu",
  "yomi": "さんぼくしゅうちゅう",
  "category": "注釈",
- "description": null,
+ "description": {
+  "kind": "注釈（散木奇歌集）",
+  "era": "寿永2年（1183）10月",
+  "author": "顕昭",
+  "desc": "源俊頼の家集「散木奇歌集」の難解な歌を取り上げ、万葉集などを引いて語句を注した書。奥書に寿永2年10月に命を受けて注進したとある。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -220,6 +225,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
